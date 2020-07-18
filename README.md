@@ -4,6 +4,8 @@ Dynamic, proactive and innovative IT professional, with a solid 6+ year record o
 
 Highly effective in driving the software development life-cycle, including requirements gathering and analysis, design, programming, testing, and deployment using Agile Methodology (Scrum). Proven ability to optimize, enhance and integrate software to provide new features and improve performance.
 
+<hr>
+
 #### #OpenToWork
 Full Stack Engineer | Software Engineer | Web Developer | Full-Time | Contract | Part-time | Remote
 
