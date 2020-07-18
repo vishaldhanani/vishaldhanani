@@ -7,7 +7,7 @@ Highly effective in driving the software development life-cycle, including requi
 #### #OpenToWork
 Full Stack Engineer | Software Engineer | Web Developer | Full-Time | Contract | Part-time | Remote
 
-📫 #### How to reach me:
+📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/vishaldhanani/"><img src="https://github.com/vishaldhanani/vishaldhanani/blob/master/logos/linkedin.png" width="50" /></a>
 <a href="https://github.com/vishaldhanani/"><img src="https://github.com/vishaldhanani/vishaldhanani/blob/master/logos/github-logo.png" width="50" /></a>
