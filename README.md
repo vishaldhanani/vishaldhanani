@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi, I'm a Senior Software Engineer (Microsoft Certified: Azure Developer Associate) at SVTronics, Inc. focusing on Full Stack Development.
 
-<!--
-**vishaldhanani/vishaldhanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dynamic, proactive and innovative IT professional, with a solid 6+ year record of success in design, development of cutting-edge, serverless applications and web-based solutions, using Microsoft .Net technologies, Azure Cloud Services, SQL Server, Angular, and Node JS for diverse clients.
+
+Highly effective in driving the software development life-cycle, including requirements gathering and analysis, design, programming, testing, and deployment using Agile Methodology (Scrum). Proven ability to optimize, enhance and integrate software to provide new features and improve performance. 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Certifications
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40the.green.man%2Fexam-az-203-developing-solutions-for-microsoft-azure-best-resources-on-the-web-in-2020-23c10679b0d2&psig=AOvVaw1w-BuaQxARwSr5id4oqzHx&ust=1595192697234000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiCw4La1-oCFQAAAAAdAAAAABAD
