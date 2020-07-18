@@ -9,7 +9,8 @@ Full Stack Engineer | Software Engineer | Web Developer | Full-Time | Contract |
 
 <a href="https://www.linkedin.com/in/vishaldhanani/"><img src="https://github.com/vishaldhanani/vishaldhanani/blob/master/logos/linkedin.png" width="50" /></a>
 <a href="https://github.com/vishaldhanani/"><img src="https://github.com/vishaldhanani/vishaldhanani/blob/master/logos/github-logo.png" width="50" /></a>
-
+<a href="https://www.facebook.com/vishal.dhanani.9/"><img src="https://github.com/vishaldhanani/vishaldhanani/blob/master/logos/facebook.png" width="50" /></a>
+<a href="https://www.instagram.com/vishal_dhanani"><img src="https://github.com/vishaldhanani/vishaldhanani/blob/master/logos/instagram.png" width="50" /></a>
 
 Here are some ideas to get you started:
 
