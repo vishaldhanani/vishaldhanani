@@ -1,4 +1,4 @@
-### Hi, I'm a <a href="https://ashutoshhathidara.com/">Senior Software Engineer</a> <a  href="https://www.youracclaim.com/earner/earned/badge/9042185b-66a9-476f-ac59-3bff7ab5d410/public_url">(Microsoft Certified: Azure Developer Associate) </a> at SVTronics, Inc. focusing on Full Stack Development. 
+### Hi, I'm a Vishal. I'm currently working as <a href="https://ashutoshhathidara.com/">Senior Software Engineer</a> <a  href="https://www.youracclaim.com/earner/earned/badge/9042185b-66a9-476f-ac59-3bff7ab5d410/public_url">(Microsoft Certified: Azure Developer Associate) </a> at SVTronics, Inc. focusing on Full Stack Development. 
  
 Dynamic, proactive and innovative IT professional, with a solid 6+ year record of success in design, development of cutting-edge, serverless applications and web-based solutions, using Microsoft .Net technologies, Azure Cloud Services, SQL Server, Angular, and Node JS for diverse clients.
 
