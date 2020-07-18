@@ -4,6 +4,10 @@ Dynamic, proactive and innovative IT professional, with a solid 6+ year record o
 
 Highly effective in driving the software development life-cycle, including requirements gathering and analysis, design, programming, testing, and deployment using Agile Methodology (Scrum). Proven ability to optimize, enhance and integrate software to provide new features and improve performance. 👋
 
+##### #OpenToWork
+Full Stack Engineer | Software Engineer | Web Developer | Full-Time | Contract | Part-time | Remote
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
@@ -15,5 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Certifications
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40the.green.man%2Fexam-az-203-developing-solutions-for-microsoft-azure-best-resources-on-the-web-in-2020-23c10679b0d2&psig=AOvVaw1w-BuaQxARwSr5id4oqzHx&ust=1595192697234000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiCw4La1-oCFQAAAAAdAAAAABAD
+##### Certifications
+<a href="https://www.youracclaim.com/earner/earned/badge/9042185b-66a9-476f-ac59-3bff7ab5d410/public_url"><img src="https://raw.githubusercontent.com/vishaldhanani/vishaldhanani/master/azure_badge.png" width="45px"/></a>
