@@ -17,6 +17,6 @@ Full Stack Engineer | Software Engineer | Web Developer | Full-Time | Contract |
 #### Certifications
 <a  href="https://www.youracclaim.com/earner/earned/badge/9042185b-66a9-476f-ac59-3bff7ab5d410/public_url"><img title="Azure Developer Associate (AZ-203)" src="https://raw.githubusercontent.com/vishaldhanani/vishaldhanani/master/azure-developer-associate.png" width="75px"/></a>
 <a href="https://cognitiveclass.ai/public_url"><img title="Container & Kubernetes Essentials with IBM Cloud" src="https://raw.githubusercontent.com/vishaldhanani/vishaldhanani/master/Container & Kubernetes Essentials with IBM Cloud.png" width="75px"/></a>
-<a href="https://www.scrumstudy.com/public_url"><img title="Scrum Fundamentals Certified" src="https://raw.githubusercontent.com/vishaldhanani/vishaldhanani/master/scrum fundamentals certified.png" width="75px"/></a>
+<a href="https://www.scrumstudy.com/public_url"><img title="Scrum Fundamentals Certified" src="https://raw.githubusercontent.com/vishaldhanani/vishaldhanani/master/Scrum Fundamentals Certified.png" width="75px"/></a>
 
 
