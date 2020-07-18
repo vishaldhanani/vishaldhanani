@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ##### Certifications
-<div class="row">
-  <div class="column">
+  <div style="display: inline-block;">
    <a href="https://www.youracclaim.com/earner/earned/badge/9042185b-66a9-476f-ac59-3bff7ab5d410/public_url"><img src="https://raw.githubusercontent.com/vishaldhanani/vishaldhanani/master/azure-developer-associate.png" width="75px"/></a>
   </div>
-  <div class="column">
+  <div style="display: inline-block;">
     <a tooltip="Container & Kubernetes Essentials with IBM Cloud" href="https://cognitiveclass.ai/public_url"><img          src="https://raw.githubusercontent.com/vishaldhanani/vishaldhanani/master/Container & Kubernetes Essentials with IBM Cloud.png" width="75px"/></a>
   </div>
-</div>
