@@ -1,13 +1,11 @@
-### Hi, I'm Vishal. I'm currently working as <a href="https://ashutoshhathidara.com/">Senior Software Engineer</a> <a  href="https://www.youracclaim.com/earner/earned/badge/9042185b-66a9-476f-ac59-3bff7ab5d410/public_url">(Microsoft Certified: Azure Developer Associate) </a> at SVTronics, Inc. focusing on Full Stack Development. 
+### Hi, I'm Vishal. I'm currently working as <a href="https://ashutoshhathidara.com/">Software Engineer III</a> <a  href="https://www.youracclaim.com/earner/earned/badge/9042185b-66a9-476f-ac59-3bff7ab5d410/public_url">(Microsoft Certified: Azure Developer Associate) </a> at J.B. Hunt Transport Services Inc. 
  
-Dynamic, proactive and innovative IT professional, with a solid 6+ year record of success in design, development of cutting-edge, serverless applications and web-based solutions, using Microsoft .Net technologies, Azure Cloud Services, SQL Server, Angular, and Node JS for diverse clients.
+Dynamic, proactive and innovative IT professional, with a solid 6+ year record of success in design, development of cutting-edge, serverless applications and web-based solutions, using Microsoft .Net technologies, Java Spring Boot, Apache Kafka, Confluent Cloud, Google Protocol Buffers for diverse application migration from Event Hub, AMQ to Apache Kafka.
 
 Highly effective in driving the software development life-cycle, including requirements gathering and analysis, design, programming, testing, and deployment using Agile Methodology (Scrum). Proven ability to optimize, enhance and integrate software to provide new features and improve performance.
 
 <hr>
 
-#### #OpenToWork
-Full Stack Engineer | Software Engineer | Web Developer | Full-Time | Contract | Part-time | Remote
 
 📫 How to reach me:
 
